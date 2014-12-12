@@ -1,0 +1,6 @@
+/*
+ * Copyleft (C) 2009
+ * 	Rodrigo Rubira Branco (BSDaemon) 
+ *	<rodrigo_branco *noSPAM* research.coseinc.com>
+*/
+
